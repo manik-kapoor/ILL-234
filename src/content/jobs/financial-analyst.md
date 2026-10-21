@@ -1,7 +1,7 @@
 ---
 title: "Financial Analyst"
 department: "Finance"
-location: "Woodinville, WA, USA"
+location: "London, UK"
 type: "Full-time"
 remote: false
 postedDate: "2027-04-05"
